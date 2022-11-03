@@ -1,0 +1,5 @@
+*.suo
+Source/InventoryDisplay/InventoryDisplay/bin*
+Source/InventoryDisplay/InventoryDisplay/obj*
+Source/InventoryDisplay/.vs*
+*.zip
